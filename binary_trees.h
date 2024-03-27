@@ -29,6 +29,7 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
 
 size_t binary_tree_depth(const binary_tree_t *tree);
 size_t binary_tree_height(const binary_tree_t *tree);
+size_t binary_tree_leaves(const binary_tree_t *tree);
 size_t binary_tree_size(const binary_tree_t *tree);
 
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value);
