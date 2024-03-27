@@ -63,5 +63,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Insert Left Child`](1-binary_tree_insert_left.c)_
 * _[`Insert Right Child`](2-binary_tree_insert_right.c)_
 * _[`Delete Entire Tree`](3-binary_tree_delete.c)_
+* _[`Test if Node is Leaf`](4-binary_tree_is_leaf.c)_
 
 <br />
