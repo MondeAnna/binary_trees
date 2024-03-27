@@ -68,5 +68,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Pre-Order Traversal`](6-binary_tree_preorder.c)_
 * _[`In-Order Traversal`](7-binary_tree_inorder.c)_
 * _[`Post-Order Traversal`](8-binary_tree_postorder.c)_
+* _[`Determine Height of Tree`](9-binary_tree_height.c)_
 
 <br />
