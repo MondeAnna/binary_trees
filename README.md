@@ -61,5 +61,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 * _[`Create Binary Tree Node`](0-binary_tree_node.c)_
 * _[`Insert Left Child`](1-binary_tree_insert_left.c)_
+* _[`Insert Right Child`](2-binary_tree_insert_right.c)_
 
 <br />
