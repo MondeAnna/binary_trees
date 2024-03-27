@@ -1,8 +1,11 @@
 # everything
 *
 
-# except
+# exceptions
 !*.c
 !*.h
 !*.md
 !.gitignore
+
+# untracked: special
+main.c
