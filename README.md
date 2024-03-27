@@ -65,5 +65,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Delete Entire Tree`](3-binary_tree_delete.c)_
 * _[`Test if Node is Leaf`](4-binary_tree_is_leaf.c)_
 * _[`Test if Node is Root`](5-binary_tree_is_root.c)_
+* _[`Pre-Order Traversal`](6-binary_tree_preorder.c)_
 
 <br />
