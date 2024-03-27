@@ -70,5 +70,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Post-Order Traversal`](8-binary_tree_postorder.c)_
 * _[`Determine Height of Tree`](9-binary_tree_height.c)_
 * _[`Determine Depth of Tree`](10-binary_tree_depth.c)_
+* _[`Determine Number of Nodes`](11-binary_tree_size.c)_
 
 <br />
