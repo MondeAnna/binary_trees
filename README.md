@@ -77,5 +77,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Test if Tree is Full`](15-binary_tree_is_full.c)_
 * _[`Test if Tree is Perfect`](16-binary_tree_is_perfect.c)_
 * _[`Get Node's Sibling`](17-binary_tree_sibling.c)_
+* _[`Get Node's Uncle`](18-binary_tree_uncle.c)_
 
 <br />
