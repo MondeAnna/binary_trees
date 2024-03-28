@@ -74,5 +74,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Determine Number of Leaves`](12-binary_tree_leaves.c)_
 * _[`Number of Non-Leaves`](13-binary_tree_nodes.c)_
 * _[`Measure Balance Factor`](14-binary_tree_balance.c)_
+* _[`Test if Tree is Full`](15-binary_tree_is_full.c)_
 
 <br />
